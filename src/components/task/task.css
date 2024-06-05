@@ -1,0 +1,18 @@
+.time {
+    font-size: 16px;
+    margin-right: 5px;
+    color: #cc9a9a;
+}
+
+.description_max-width {
+    max-width: 120px;
+}
+
+.description__timer-btn {
+    margin-left: 10px;
+    min-width: 44px;
+}
+
+.title {
+    max-width: 190px;
+}
